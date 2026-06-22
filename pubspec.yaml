@@ -9,12 +9,13 @@ issue_tracker: https://github.com/prashantkirpan/flutter_adaptive_accessibility/
 
 license: MIT
 
+
 topics:
-  accessibility
-  responsive
-  adaptive
-  ui
-  flutter
+  - accessibility
+  - responsive
+  - adaptive
+  - ui
+  - flutter
 
 environment:
   sdk: ^3.9.2
