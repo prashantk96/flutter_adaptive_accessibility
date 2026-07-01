@@ -50,13 +50,13 @@ and focus on building your UI.
 
 ## Usecase1 
 
-![Usecase1](assets/screenshots/usage1.png)
+![Usecase1](assets/screenshots/usage1.jpeg)
 
 ---
 
 ## Usecase2
 
-![Usecase2](assets/screenshots/usage2.png)
+![Usecase2](assets/screenshots/usage2.jpeg)
 
 ---
 

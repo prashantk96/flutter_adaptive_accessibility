@@ -126,4 +126,4 @@ The format is inspired by Keep a Changelog and this project follows Semantic Ver
 
 * First public release of flutter_adaptive_accessibility.
 * Focused on reducing responsive-layout boilerplate while improving accessibility support.
-@prashant kirpan
+@prashant kirpan *
